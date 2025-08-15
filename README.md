@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohit Garg
-- 👀 I’m interested in building applications and leading teams.
-- 💞️ I’m looking to collaborate on open source projects.
+- 👀 I’m interested in building applications, learning, and solving problems.
 - 📫 Reach out to me @ mmcgarg@gmail.com
 
 <!---
